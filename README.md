@@ -30,3 +30,4 @@ Para el menú utilizaremos siete conversiones:
 Elija una opción:
 ------------------------------------------------------------
 
+debe ingresar el número de la opcione que desea y luego el monto que necesita convertir.
